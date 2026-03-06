@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:00d4ff&height=200&section=header&text=Priyanshu%20Upadhyay&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Generative%20AI%20%7C%20Computer%20Vision&descAlignY=58&descColor=79e8f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:00d4ff&height=200&section=header&text=Priyanshu%20Upadhyay&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Generative%20AI%20%7C%20Computer%20Vision&descAlignY=58&descColor=00ff88" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Priyanshu+%F0%9F%91%8B;CS+Student+%40+KIET%2C+India;ML+%7C+GenAI+%7C+Computer+Vision+Builder;Building+real-world+AI+systems+%F0%9F%A4%96;Open+to+Internships+%26+Full-time+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Priyanshu+%F0%9F%91%8B;CS+Student+%40+KIET%2C+India;ML+%7C+GenAI+%7C+Computer+Vision+Builder;Building+real-world+AI+systems+%F0%9F%A4%96;Open+to+Internships+%26+Full-time+Roles!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-Upadhyay-27&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-Upadhyay-27&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -33,10 +33,10 @@ priyanshu = {
     "degree"     : "B.Tech — Computer Science",
     "location"   : "Ghaziabad, India 🇮🇳",
     "focus"      : ["Machine Learning", "Generative AI", "Computer Vision"],
-    "currently"  : "Classic ML & Generative AI 🧠",
-    "learning"   : ["DSA & Problem Solving", "Deployment", "LLM Systems"],
+    "currently"  : "Training YOLO 🎯 | Core focus: Classic ML & Generative AI 🧠",
+    "learning"   : ["DSA & Algorithms", "AI Engineering", "LLM Systems", "YOLO / Object Detection"],
     "open_to"    : ["Internships 🔍", "Full-time Roles 💼", "Collaborations 🤝"],
-    "fun_fact"   : "Large AI models look intelligent, but internally they are just billions of numbers predicting the next token. 🧊"
+    "fun_fact"   : "I train models not just for accuracy — but to explain their decisions 🧊"
 }
 ```
 
@@ -93,14 +93,14 @@ priyanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Upadhyay-27&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=79e8f0&text_color=c9d1d9&ring_color=00d4ff" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Upadhyay-27&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00d4ff" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Upadhyay-27&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Upadhyay-27&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="175"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Upadhyay-27&theme=transparent&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=79e8f0&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00d4ff&sideNums=79e8f0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Upadhyay-27&theme=transparent&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=00ff88&dates=c9d1d9&currStreakNum=00d4ff&sideNums=00ff88" />
 </div>
 
 ---
@@ -108,7 +108,7 @@ priyanshu = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Upadhyay-27&bg_color=0d1117&color=00d4ff&line=00d4ff&point=79e8f0&area=true&area_color=00d4ff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Upadhyay-27&bg_color=0d1117&color=00ff88&line=00d4ff&point=00ff88&area=true&area_color=00ff88&hide_border=true" />
 </div>
 
 ---
@@ -125,6 +125,6 @@ priyanshu = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a2332,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:1a2332,100:0d1117&height=120&section=footer" />
 
 </div>

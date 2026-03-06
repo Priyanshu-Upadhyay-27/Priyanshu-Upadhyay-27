@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:00d4ff&height=200&section=header&text=Priyanshu%20Upadhyay&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=58&descColor=79e8f0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:00d4ff&height=200&section=header&text=Priyanshu%20Upadhyay&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Generative%20AI%20%7C%20Computer%20Vision&descAlignY=58&descColor=79e8f0" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Priyanshu+%F0%9F%91%8B;CS+Student+%40+KIET%2C+India;ML+%7C+Computer+Vision+%7C+GenAI+Builder;Building+real-world+AI+systems+%F0%9F%A4%96;Open+to+Internships+%26+Full-time+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Priyanshu+%F0%9F%91%8B;CS+Student+%40+KIET%2C+India;ML+%7C+GenAI+%7C+Computer+Vision+Builder;Building+real-world+AI+systems+%F0%9F%A4%96;Open+to+Internships+%26+Full-time+Roles!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,10 +31,10 @@ priyanshu = {
     "name"       : "Priyanshu Upadhyay",
     "college"    : "Krishna Institute of Engineering & Technology (KIET)",
     "degree"     : "B.Tech — Computer Science",
-    "location"   : "India 🇮🇳",
-    "focus"      : ["Machine Learning", "Computer Vision", "Generative AI", "LLMs"],
-    "currently"  : "Building real-world AI systems (not tutorial clones) 🛠️",
-    "learning"   : ["Deep Learning", "LLM Systems", "Model Deployment"],
+    "location"   : "Ghaziabad, India 🇮🇳",
+    "focus"      : ["Machine Learning", "Generative AI", "Computer Vision"],
+    "currently"  : "Training YOLO 🎯 | Core focus: Classic ML & Generative AI 🧠",
+    "learning"   : ["DSA & Algorithms", "AI Engineering", "LLM Systems", "YOLO / Object Detection"],
     "open_to"    : ["Internships 🔍", "Full-time Roles 💼", "Collaborations 🤝"],
     "fun_fact"   : "I train models not just for accuracy — but to explain their decisions 🧊"
 }
@@ -49,25 +49,26 @@ priyanshu = {
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00ff88)
 
 **📊 ML & Data Science**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00d4ff)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00d4ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00d4ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ff88)
 
 **👁️ Computer Vision & GenAI**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00d4ff)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00d4ff)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff88)
 
 **⚙️ Tools & Platforms**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00d4ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00d4ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00ff88)
+![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
 
 </div>
@@ -104,14 +105,6 @@ priyanshu = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Upadhyay-27&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -122,9 +115,13 @@ priyanshu = {
 
 <div align="center">
 
-### 🧊 Let's Connect & Build Something Intelligent Together!
+### 🤝 Let's Build Something Intelligent Together
 
-[![LinkedIn](https://img.shields.io/badge/Let%27s_Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
+<a href="https://www.linkedin.com/in/priyanshu-upadhyay-cse">
+  <img src="./connect-animation.svg" alt="Let's Connect" width="800"/>
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
 
 <br/>
 

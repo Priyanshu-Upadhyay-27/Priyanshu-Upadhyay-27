@@ -93,9 +93,9 @@ priyanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-ochre-sigma-21.vercel.app/api?username=Priyanshu-Upadhyay-27&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00d4ff" height="175"/>
+<img src="https://github-readme-stats-ochre-sigma-21.vercel.app/api?username=Priyanshu-Upadhyay-27&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00d4ff&count_private=true" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-ochre-sigma-21.vercel.app/api/top-langs/?username=Priyanshu-Upadhyay-27&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats-ochre-sigma-21.vercel.app/api/top-langs/?username=Priyanshu-Upadhyay-27&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&hide=jupyter%20notebook,c%2B%2B&count_private=true&langs_count=6" height="175"/>
 
 </div>
 

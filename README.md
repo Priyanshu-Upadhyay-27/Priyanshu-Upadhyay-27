@@ -33,10 +33,10 @@ priyanshu = {
     "degree"     : "B.Tech — Computer Science",
     "location"   : "Ghaziabad, India 🇮🇳",
     "focus"      : ["Machine Learning", "Generative AI", "Computer Vision"],
-    "currently"  : "Training YOLO 🎯 | Core focus: Classic ML & Generative AI 🧠",
-    "learning"   : ["DSA & Algorithms", "AI Engineering", "LLM Systems", "YOLO / Object Detection"],
+    "currently"  : "Classic ML & Generative AI 🧠",
+    "learning"   : ["DSA/Problem Solving", "Deployment", "LLM Systems"],
     "open_to"    : ["Internships 🔍", "Full-time Roles 💼", "Collaborations 🤝"],
-    "fun_fact"   : "I train models not just for accuracy — but to explain their decisions 🧊"
+    "fun_fact"   : "LLMs look intelligent, but internally they are just billions of numbers predicting the next token. 🧊"
 }
 ```
 

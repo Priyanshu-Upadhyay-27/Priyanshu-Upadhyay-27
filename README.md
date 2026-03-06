@@ -48,28 +48,28 @@ priyanshu = {
 
 **💻 Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00ff88)
+![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=c%2B%2B&logoColor=00ff88)
 
 **📊 ML & Data Science**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00d4ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00d4ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ff88)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-21262d?style=for-the-badge&logo=scikit-learn&logoColor=00d4ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-21262d?style=for-the-badge&logo=python&logoColor=00ff88)
+![Pandas](https://img.shields.io/badge/Pandas-21262d?style=for-the-badge&logo=pandas&logoColor=00d4ff)
+![NumPy](https://img.shields.io/badge/NumPy-21262d?style=for-the-badge&logo=numpy&logoColor=00ff88)
 
 **👁️ Computer Vision & GenAI**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00d4ff)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff88)
+![OpenCV](https://img.shields.io/badge/OpenCV-21262d?style=for-the-badge&logo=opencv&logoColor=00d4ff)
+![LangChain](https://img.shields.io/badge/LangChain-21262d?style=for-the-badge&logo=langchain&logoColor=00ff88)
 
 **⚙️ Tools & Platforms**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00d4ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00ff88)
-![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=00d4ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-21262d?style=for-the-badge&logo=streamlit&logoColor=00d4ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-21262d?style=for-the-badge&logo=jupyter&logoColor=00ff88)
+![PyCharm](https://img.shields.io/badge/PyCharm-21262d?style=for-the-badge&logo=pycharm&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=00ff88)
+![VS Code](https://img.shields.io/badge/VS_Code-21262d?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
 
 </div>
 

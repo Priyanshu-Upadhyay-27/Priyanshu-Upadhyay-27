@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117&color=1a2332)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
-[![GitHub](https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117&color=1a2332)](https://github.com/Priyanshu-Upadhyay-27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a2332?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
+[![GitHub](https://img.shields.io/badge/GitHub-1a2332?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Priyanshu-Upadhyay-27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=netlify&logoColor=00d4ff&labelColor=1a2332)](https://priyanshu-upadhyay-portfolio.netlify.app)
 
 
@@ -128,11 +128,13 @@ priyanshu = {
 <br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-upadhyay-cse">
-  <img src="./connect-animation.svg" alt="Let's Connect" width="390"/>
+  <img src="./connect-animation.svg" alt="Let's Connect on LinkedIn" width="800"/>
 </a>
-&nbsp;&nbsp;
+
+<br/>
+
 <a href="mailto:your.email@gmail.com">
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" alt="Email Me" width="390" style="border-radius:12px"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAztco/giphy.gif" alt="Send me an Email" width="800"/>
 </a>
 
 <br/>

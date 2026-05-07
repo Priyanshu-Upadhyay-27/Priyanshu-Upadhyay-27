@@ -60,12 +60,15 @@ priyanshu = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-21262d?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![Seaborn](https://img.shields.io/badge/Seaborn-21262d?style=for-the-badge&logo=python&logoColor=00ff88)
 
-**⚙️ MLOps & GenAI**
+**⚙️ MLOps**
 
 ![MLflow](https://img.shields.io/badge/MLflow-21262d?style=for-the-badge&logo=mlflow&logoColor=00d4ff)
-![DVC](https://img.shields.io/badge/DVC-21262d?style=for-the-badge&logo=dvc&logoColor=00ff88)
-![OpenCV](https://img.shields.io/badge/OpenCV-21262d?style=for-the-badge&logo=opencv&logoColor=00d4ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=for-the-badge&logo=fastapi&logoColor=00ff88)
+
+**🤖 GenAI & CV**
+
 ![LangChain](https://img.shields.io/badge/LangChain-21262d?style=for-the-badge&logo=langchain&logoColor=00ff88)
+![OpenCV](https://img.shields.io/badge/OpenCV-21262d?style=for-the-badge&logo=opencv&logoColor=00d4ff)
 
 **🧰 Tools & Platforms**
 

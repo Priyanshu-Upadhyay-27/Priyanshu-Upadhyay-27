@@ -122,19 +122,12 @@ priyanshu = {
 
 ### 🤝 Let's Build Something Intelligent Together
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Let's%20Talk-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:your.email@gmail.com)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-upadhyay-cse">
   <img src="./connect-animation.svg" alt="Let's Connect on LinkedIn" width="800"/>
-</a>
-
-<br/>
-
-<a href="mailto:your.email@gmail.com">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAztco/giphy.gif" alt="Send me an Email" width="800"/>
 </a>
 
 <br/>

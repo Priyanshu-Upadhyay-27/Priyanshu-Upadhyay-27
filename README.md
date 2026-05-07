@@ -60,18 +60,20 @@ priyanshu = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-21262d?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![Seaborn](https://img.shields.io/badge/Seaborn-21262d?style=for-the-badge&logo=python&logoColor=00ff88)
 
-**👁️ Computer Vision & GenAI**
+**⚙️ MLOps & GenAI**
 
+![MLflow](https://img.shields.io/badge/MLflow-21262d?style=for-the-badge&logo=mlflow&logoColor=00d4ff)
+![DVC](https://img.shields.io/badge/DVC-21262d?style=for-the-badge&logo=dvc&logoColor=00ff88)
 ![OpenCV](https://img.shields.io/badge/OpenCV-21262d?style=for-the-badge&logo=opencv&logoColor=00d4ff)
 ![LangChain](https://img.shields.io/badge/LangChain-21262d?style=for-the-badge&logo=langchain&logoColor=00ff88)
 
-**⚙️ Tools & Platforms**
+**🧰 Tools & Platforms**
 
 ![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=00d4ff)
 ![Streamlit](https://img.shields.io/badge/Streamlit-21262d?style=for-the-badge&logo=streamlit&logoColor=00ff88)
 ![Jupyter](https://img.shields.io/badge/Jupyter-21262d?style=for-the-badge&logo=jupyter&logoColor=00d4ff)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21262d?style=for-the-badge&logo=pycharm&logoColor=00ff88)
-![VS Code](https://img.shields.io/badge/VS_Code-21262d?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
+![VS Code](https://img.shields.io/badge/VS_Code-21262d?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff)
 ![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=00ff88)
 
 </div>
@@ -120,11 +122,14 @@ priyanshu = {
 
 ### 🤝 Let's Build Something Intelligent Together
 
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:your.email@gmail.com)
+
+<br/>
+
 <a href="https://www.linkedin.com/in/priyanshu-upadhyay-cse">
   <img src="./connect-animation.svg" alt="Let's Connect" width="800"/>
 </a>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
 
 <br/>
 

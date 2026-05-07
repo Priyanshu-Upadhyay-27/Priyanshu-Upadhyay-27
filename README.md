@@ -1,130 +1,133 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:00d4ff&height=200&section=header&text=Priyanshu%20Upadhyay&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=58&descColor=00ff88" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Data+Scientist;Building+Intelligent+Systems;Open+to+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Priyanshu+%F0%9F%91%8B;CS+Student+%40+KIET%2C+India;ML+%7C+GenAI+%7C+MLOps+Builder;Building+real-world+AI+systems+%F0%9F%A4%96;Open+to+Internships+%26+Full-time+Roles!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117&color=1a2332)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
+[![GitHub](https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117&color=1a2332)](https://github.com/Priyanshu-Upadhyay-27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=netlify&logoColor=0d1117&labelColor=1a2332)](https://priyanshu-upadhyay-portfolio.netlify.app)
+
+
+<br/>
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-Upadhyay-27&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-- 🔭 Currently working on **ML pipelines & GenAI applications**
-- 🌱 Learning **MLOps, LLM fine-tuning & production deployment**
-- 💬 Ask me about **Python, ML, Data Science, or LangChain**
-- 📫 Reach me at: **youremail@example.com**
-- ⚡ Fun fact: I debug with `print()` and I'm not ashamed of it
+```python
+priyanshu = {
+    "name"       : "Priyanshu Upadhyay",
+    "college"    : "Krishna Institute of Engineering & Technology (KIET)",
+    "degree"     : "B.Tech — Computer Science",
+    "location"   : "Ghaziabad, India 🇮🇳",
+    "focus"      : ["Machine Learning", "Generative AI", "MLOps"],
+    "currently"  : "Classic ML & Generative AI 🧠",
+    "learning"   : ["DSA/Problem Solving", "Deployment", "LLM Systems"],
+    "open_to"    : ["Internships 🔍", "Full-time Roles 💼", "Collaborations 🤝"],
+    "fun_fact"   : "LLMs look intelligent, but internally they are just billions of numbers predicting the next token. 🧊"
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🗣️ Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-### 📊 ML & Data Science
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### ⚙️ MLOps & GenAI
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### 🧰 Tools & Platforms
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [Project One — Predictive Analytics Dashboard](https://github.com/yourusername/project-one)
-> End-to-end ML pipeline for sales forecasting with Streamlit dashboard deployment.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
----
-
-### 🔹 [Project Two — LLM-Powered Document QA](https://github.com/yourusername/project-two)
-> RAG-based question-answering system using LangChain and vector databases.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-### 🔹 [Project Three — ML Pipeline with MLflow](https://github.com/yourusername/project-three)
-> Reproducible ML experiment tracking with automated model versioning and CI/CD.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+**💻 Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=c%2B%2B&logoColor=00ff88)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
+**📊 ML & Data Science**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-21262d?style=for-the-badge&logo=scikit-learn&logoColor=00d4ff)
+![Pandas](https://img.shields.io/badge/Pandas-21262d?style=for-the-badge&logo=pandas&logoColor=00d4ff)
+![NumPy](https://img.shields.io/badge/NumPy-21262d?style=for-the-badge&logo=numpy&logoColor=00ff88)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-21262d?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Seaborn](https://img.shields.io/badge/Seaborn-21262d?style=for-the-badge&logo=python&logoColor=00ff88)
+
+**👁️ Computer Vision & GenAI**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-21262d?style=for-the-badge&logo=opencv&logoColor=00d4ff)
+![LangChain](https://img.shields.io/badge/LangChain-21262d?style=for-the-badge&logo=langchain&logoColor=00ff88)
+
+**⚙️ Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=00d4ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-21262d?style=for-the-badge&logo=streamlit&logoColor=00ff88)
+![Jupyter](https://img.shields.io/badge/Jupyter-21262d?style=for-the-badge&logo=jupyter&logoColor=00d4ff)
+![PyCharm](https://img.shields.io/badge/PyCharm-21262d?style=for-the-badge&logo=pycharm&logoColor=00ff88)
+![VS Code](https://img.shields.io/badge/VS_Code-21262d?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=00ff88)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌟 Featured Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 |
+|:----------|:--------------|:--------|:-:|
+| **QnA with Jupyter** | RAG architecture that answers any query about an uploaded Jupyter Notebook | `LangChain` `RAG` `Python` | *Soon* |
+| **Loan Classinator** | XGBoost trained on 2.2M rows — classifies loan eligibility, clusters applicants & explains rejections via SHAP | `XGBoost` `SHAP` `Sklearn` `Streamlit` | [🔗 Live](https://loanclassinator-classifier-cluster.streamlit.app/) |
+| **AI Notebook** | Draw or write in the air using hand gestures — real-time CV project | `OpenCV` `MediaPipe` `Python` | *Soon* |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-ochre-sigma-21.vercel.app/api?username=Priyanshu-Upadhyay-27&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00d4ff&count_private=true" height="175"/>
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://yourportfolio.netlify.app)
+<img src="https://github-readme-stats-ochre-sigma-21.vercel.app/api/top-langs/?username=Priyanshu-Upadhyay-27&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&hide=jupyter%20notebook,c%2B%2B&count_private=true&langs_count=6" height="175"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Upadhyay-27&theme=transparent&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=00ff88&dates=c9d1d9&currStreakNum=00d4ff&sideNums=00ff88" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Upadhyay-27&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00ff88&area=true&area_color=00d4ff&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Intelligent Together
+
+<a href="https://www.linkedin.com/in/priyanshu-upadhyay-cse">
+  <img src="./connect-animation.svg" alt="Let's Connect" width="800"/>
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
 
 <br/>
 
-[![LinkedIn GIF](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)](https://linkedin.com/in/yourprofile)
-
-*Feel free to connect — I'm always open to interesting conversations and collaborations!*
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=flat-square&label=Profile+Views)
-
-*Last updated automatically · Built with ❤️ and too much ☕*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:1a2332,100:0d1117&height=120&section=footer" />
 
 </div>

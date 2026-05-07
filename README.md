@@ -86,9 +86,9 @@ priyanshu = {
 
 | 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 |
 |:----------|:--------------|:--------|:-:|
-| **QnA with Jupyter** | RAG architecture that answers any query about an uploaded Jupyter Notebook | `LangChain` `RAG` `Python` | *Soon* |
-| **Loan Classinator** | XGBoost trained on 2.2M rows — classifies loan eligibility, clusters applicants & explains rejections via SHAP | `XGBoost` `SHAP` `Sklearn` `Streamlit` | [🔗 Live](https://loanclassinator-classifier-cluster.streamlit.app/) |
-| **AI Notebook** | Draw or write in the air using hand gestures — real-time CV project | `OpenCV` `MediaPipe` `Python` | *Soon* |
+| **Customer Churn Prediction & MLOps Pipeline** | End-to-end ML system with custom Sklearn pipeline, XGBoost classifier achieving 85% recall & ROC-AUC 0.82, with decoupled FastAPI inference backend from Streamlit UI | `XGBoost` `FastAPI` `Scikit-learn` `Streamlit` | [GitHub](https://github.com/Priyanshu-Upadhyay-27/end-to-end-churn-ml) · [Demo](https://priyanshu-retention-intelligence.streamlit.app/) |
+| **QnA With Jupyter — Relational RAG System** | Notebook parsing via Python AST to extract variables & generate semantic descriptions; relational RAG architecture achieving ~80% correct contextual dependency retrieval | `LangChain` `Python AST` `RAG` `LLMs` | [GitHub](https://github.com/Priyanshu-Upadhyay-27/QnA_With_Jupyter) |
+| **Lending Club Loan Risk Analysis** | End-to-end ML pipeline on ~2.2M records — KMeans clustering for segmentation + XGBoost classifier with ROC-AUC 0.73, deployed via Streamlit | `XGBoost` `KMeans` `Scikit-learn` `Streamlit` | [GitHub](https://github.com/Priyanshu-Upadhyay-27/LoanClassinator) · [Demo](https://loanclassinator-classifier-cluster.streamlit.app/) |
 
 </div>
 
@@ -122,7 +122,7 @@ priyanshu = {
 
 ### 🤝 Let's Build Something Intelligent Together
 
-[![Email](https://img.shields.io/badge/Let's%20Talk-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20%20Let's%20Talk%20%20—%20Drop%20Me%20a%20Mail-00d4ff?style=for-the-badge&logoColor=0d1117)](mailto:your.email@gmail.com)
 
 <br/>
 

@@ -82,8 +82,11 @@ priyanshu = {
 
 <div align="center">
 
-  <img src="./assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="130" />&nbsp;&nbsp;
-  <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="130" />&nbsp;&nbsp;
+  <img src="./assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="130" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="130" />
+  
+  <br/><br/>
+  
   <img src="./assets/introduction-to-modern-ai.png" alt="Introduction to Modern AI" width="130" />&nbsp;&nbsp;
   <img src="./assets/introduction-to-data-science.png" alt="Introduction to Data Science" width="130" />&nbsp;&nbsp;
   <img src="./assets/apply-ai-analyze-customer-reviews.png" alt="Apply AI to Analyze Customer Reviews" width="130" />
@@ -139,7 +142,8 @@ priyanshu = {
 ## 🏅 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Upadhyay-27&theme=discord&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="./assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Trophy" width="110" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/quickdraw-default--light-medium-5450fadcbe37.png" alt="Quickdraw Trophy" width="110" />
 </div>
 
 ---

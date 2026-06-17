@@ -82,8 +82,8 @@ priyanshu = {
 
 <div align="center">
 
-  <img src="./assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="130" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="130" />
+  <img src="./assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="160" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="160" />
   
   <br/><br/>
   

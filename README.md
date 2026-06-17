@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:00d4ff&height=200&section=header&text=Priyanshu%20Upadhyay&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=58&descColor=00ff88](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:00d4ff&height=200&section=header&text=Priyanshu%20Upadhyay&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=58&descColor=00ff88)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:00d4ff&height=200&section=header&text=Priyanshu%20Upadhyay&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=58&descColor=00ff88" />
 
-<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Priyanshu+%F0%9F%91%8B;CS+Student+%40+KIET%2C+India;ML+%7C+GenAI+%7C+MLOps+Builder;Building+real-world+AI+systems+%F0%9F%A4%96;Open+to+Internships+%26+Full-time+Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Priyanshu+%F0%9F%91%8B;CS+Student+%40+KIET%2C+India;ML+%7C+GenAI+%7C+MLOps+Builder;Building+real-world+AI+systems+%F0%9F%A4%96;Open+to+Internships+%26+Full-time+Roles)!" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Priyanshu+%F0%9F%91%8B;CS+Student+%40+KIET%2C+India;ML+%7C+GenAI+%7C+MLOps+Builder;Building+real-world+AI+systems+%F0%9F%A4%96;Open+to+Internships+%26+Full-time+Roles!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -157,7 +157,11 @@ priyanshu = {
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu-Upadhyay-27/Priyanshu-Upadhyay-27/output/mlops-pipeline.svg" alt="MLOps Pipeline Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-Upadhyay-27/Priyanshu-Upadhyay-27/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-Upadhyay-27/Priyanshu-Upadhyay-27/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Priyanshu-Upadhyay-27/Priyanshu-Upadhyay-27/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -170,12 +174,12 @@ priyanshu = {
 
 <br/>
 
-<a href="[https://www.linkedin.com/in/priyanshu-upadhyay-cse](https://www.linkedin.com/in/priyanshu-upadhyay-cse)">
+<a href="https://www.linkedin.com/in/priyanshu-upadhyay-cse">
   <img src="./connect-animation.svg" alt="Let's Connect on LinkedIn" width="800"/>
 </a>
 
 <br/>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:1a2332,100:0d1117&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:1a2332,100:0d1117&height=120&section=footer)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:1a2332,100:0d1117&height=120&section=footer" />
 
 </div>

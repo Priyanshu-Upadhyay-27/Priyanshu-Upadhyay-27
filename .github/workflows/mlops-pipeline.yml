@@ -32,15 +32,17 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stash the generated SVG safely
-          git stash push mlops-pipeline.svg
+          # Move the generated SVG safely out of the Git directory
+          mv mlops-pipeline.svg /tmp/mlops-pipeline.svg
           
-          # Switch to the existing output branch (where the snake lives)
+          # Fetch and checkout the existing output branch
+          git fetch --all
           git checkout output
           
-          # Pop the SVG back into the folder
-          git stash pop
+          # Bring the SVG back into the repository
+          mv /tmp/mlops-pipeline.svg .
           
+          # Add, commit, and push
           git add mlops-pipeline.svg
           git commit -m "Update MLOps Pipeline Animation" || echo "No changes to commit"
           git push origin output

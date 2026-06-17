@@ -151,7 +151,11 @@ priyanshu = {
 ## 📈 Contribution Graph & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Upadhyay-27&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00ff88&area=true&area_color=00d4ff&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-Upadhyay-27/Priyanshu-Upadhyay-27/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-Upadhyay-27/Priyanshu-Upadhyay-27/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Priyanshu-Upadhyay-27/Priyanshu-Upadhyay-27/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>

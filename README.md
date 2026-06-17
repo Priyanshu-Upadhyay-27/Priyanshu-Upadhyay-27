@@ -24,18 +24,15 @@
 
 ```python
 priyanshu = {
-    "name"      : "Priyanshu Upadhyay",
-    "college"   : "KIET Group of Institutions",
-    "degree"    : "B.Tech — Computer Science",
-    "location"  : "Ghaziabad, India 🇮🇳",
-    "focus"     : ["ML", "Generative AI", "MLOps"],
-    "learning"  : ["DSA", "Deployment", "LLMs"],
-    "open_to"   : [
-        "Internships 🔍", 
-        "Full-time Roles 💼", 
-        "Collaborations 🤝"
-    ],
-    "fun_fact"  : "LLMs are just math. 🧊"
+    "name"       : "Priyanshu Upadhyay",
+    "college"    : "Krishna Institute of Engineering & Technology (KIET)",
+    "degree"     : "B.Tech — Computer Science",
+    "location"   : "Ghaziabad, India 🇮🇳",
+    "focus"      : ["Machine Learning", "Generative AI", "MLOps"],
+    "currently"  : "Classic ML & Generative AI 🧠",
+    "learning"   : ["DSA/Problem Solving", "Deployment", "LLM Systems"],
+    "open_to"    : ["Internships 🔍", "Full-time Roles 💼", "Collaborations 🤝"],
+    "fun_fact"   : "LLMs look intelligent, but internally they are just billions of numbers predicting the next token. 🧊"
 }
 ```
 
@@ -102,9 +99,9 @@ priyanshu = {
 
 | 🏅 Recognition | 📝 Details |
 |:--------------|:----------|
-| **Clash of Codes Finalist** | Reached the final round in the competitive programming hackathon. |
-| **Innotech Finalist** | Secured a finalist position at KIET's largest technical fest. |
-| **Hackspire** | Achieved distinguished placement and recognition during the event. |
+| **Clash of Codes** <br>*(Finalist, Top 1%)* | **1000+ participants, 256+ teams:** Built an AI virtual canvas enabling air-drawing via hand gesture recognition (OpenCV), with voice-controlled navigation, multi-color support, and Gemini integration to solve problems drawn on the canvas. |
+| **HackSpire, IPEC** <br>*(Finalist)* | Developed a computer vision-based water footprint calculator that identifies crop types from images and estimates agricultural water consumption to guide sustainable irrigation decisions. |
+| **Innotech** <br>*(Finalist)* | Reached the final round in KIET's largest technical fest. |
 
 </div>
 
@@ -114,41 +111,11 @@ priyanshu = {
 
 <div align="center">
 
-<details>
-<summary><b>Customer Churn Prediction & MLOps Pipeline</b></summary>
-<br>
-End-to-end ML system predicting customer churn.
-
-| 🛠️ Stack | 📊 Performance | 🔗 Links |
-| :--- | :--- | :--- |
-| `XGBoost`, `FastAPI`, `Scikit-learn`, `Streamlit` | 85% Recall, ROC-AUC 0.82 | [GitHub](https://github.com/Priyanshu-Upadhyay-27/end-to-end-churn-ml) · [Demo](https://priyanshu-retention-intelligence.streamlit.app/) |
-
-Built with a custom Sklearn pipeline and decoupled FastAPI inference backend from the Streamlit UI.
-</details>
-
-<details>
-<summary><b>QnA With Jupyter — Relational RAG System</b></summary>
-<br>
-Notebook parsing via Python AST to extract variables & generate semantic descriptions.
-
-| 🛠️ Stack | 📊 Performance | 🔗 Links |
-| :--- | :--- | :--- |
-| `LangChain`, `Python AST`, `RAG`, `LLMs` | ~80% correct contextual dependency retrieval | [GitHub](https://github.com/Priyanshu-Upadhyay-27/QnA_With_Jupyter) |
-
-Relational RAG architecture utilizing RecursiveCharacterTextSplitter and CodeT5 Embeddings.
-</details>
-
-<details>
-<summary><b>Lending Club Loan Risk Analysis</b></summary>
-<br>
-End-to-end ML pipeline analyzing loan risks.
-
-| 🛠️ Stack | 📊 Scale & Performance | 🔗 Links |
-| :--- | :--- | :--- |
-| `XGBoost`, `KMeans`, `Scikit-learn`, `Streamlit` | ~2.2M records, ROC-AUC 0.73 | [GitHub](https://github.com/Priyanshu-Upadhyay-27/LoanClassinator) · [Demo](https://loanclassinator-classifier-cluster.streamlit.app/) |
-
-KMeans clustering for segmentation paired with an XGBoost classifier, deployed via Streamlit.
-</details>
+| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 |
+|:----------|:--------------|:--------|:-:|
+| **Customer Churn Prediction & MLOps Pipeline** | End-to-end ML system with custom Sklearn pipeline, XGBoost classifier achieving 85% recall & ROC-AUC 0.82, with decoupled FastAPI inference backend from Streamlit UI | `XGBoost` `FastAPI` `Scikit-learn` `Streamlit` | [GitHub](https://github.com/Priyanshu-Upadhyay-27/end-to-end-churn-ml) · [Demo](https://priyanshu-retention-intelligence.streamlit.app/) |
+| **QnA With Jupyter — Relational RAG System** | Notebook parsing via Python AST to extract variables & generate semantic descriptions; relational RAG architecture achieving ~80% correct contextual dependency retrieval | `LangChain` `Python AST` `RAG` `LLMs` | [GitHub](https://github.com/Priyanshu-Upadhyay-27/QnA_With_Jupyter) |
+| **Lending Club Loan Risk Analysis** | End-to-end ML pipeline on ~2.2M records — KMeans clustering for segmentation + XGBoost classifier with ROC-AUC 0.73, deployed via Streamlit | `XGBoost` `KMeans` `Scikit-learn` `Streamlit` | [GitHub](https://github.com/Priyanshu-Upadhyay-27/LoanClassinator) · [Demo](https://loanclassinator-classifier-cluster.streamlit.app/) |
 
 </div>
 
@@ -165,7 +132,7 @@ KMeans clustering for segmentation paired with an XGBoost classifier, deployed v
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Upadhyay-27&theme=transparent&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=00ff88&dates=c9d1d9&currStreakNum=00d4ff&sideNums=00ff88" />
+  <img src="https://streak-stats.demolab.com/?user=Priyanshu-Upadhyay-27&theme=transparent&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=00ff88&dates=c9d1d9&currStreakNum=00d4ff&sideNums=00ff88" />
 </div>
 
 ---
@@ -200,7 +167,7 @@ KMeans clustering for segmentation paired with an XGBoost classifier, deployed v
 
 ### 🤝 Let's Build Something Intelligent Together
 
-[![Email](https://img.shields.io/badge/📧%20%20Let's%20Talk%20%20—%20Drop%20Me%20a%20Mail-00d4ff?style=for-the-badge&logoColor=0d1117)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20%20Let's%20Talk%20%20—%20Drop%20Me%20a%20Mail-00d4ff?style=for-the-badge&logoColor=0d1117)](mailto:priyanshuupadhyay2005@gmail.com)
 
 <br/>
 

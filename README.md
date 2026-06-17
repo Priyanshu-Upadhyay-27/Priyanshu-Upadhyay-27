@@ -160,10 +160,6 @@ priyanshu = {
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu-Upadhyay-27/Priyanshu-Upadhyay-27/output/mlops-pipeline.svg" alt="MLOps Pipeline Animation" />
-</div>
-
 ---
 
 <div align="center">

@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Fetches all branches to prevent conflicts
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,7 +31,16 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output || git checkout output
+          
+          # Stash the generated SVG safely
+          git stash push mlops-pipeline.svg
+          
+          # Switch to the existing output branch (where the snake lives)
+          git checkout output
+          
+          # Pop the SVG back into the folder
+          git stash pop
+          
           git add mlops-pipeline.svg
           git commit -m "Update MLOps Pipeline Animation" || echo "No changes to commit"
-          git push -f origin output
+          git push origin output

@@ -82,12 +82,11 @@ priyanshu = {
 
 <div align="center">
 
-![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-21262d?style=for-the-badge&logo=amazon-aws&logoColor=00ff88)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-21262d?style=for-the-badge&logo=amazon-aws&logoColor=00d4ff)
-<br/>
-![NetAcad AI](https://img.shields.io/badge/Cisco_NetAcad-Artificial_Intelligence-21262d?style=for-the-badge&logo=cisco&logoColor=00ff88)
-![NetAcad Data Science](https://img.shields.io/badge/Cisco_NetAcad-Data_Science-21262d?style=for-the-badge&logo=cisco&logoColor=00d4ff)
-![NetAcad Python](https://img.shields.io/badge/Cisco_NetAcad-Python-21262d?style=for-the-badge&logo=cisco&logoColor=00ff88)
+  <img src="./assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="130" />&nbsp;&nbsp;
+  <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="130" />&nbsp;&nbsp;
+  <img src="./assets/introduction-to-modern-ai.png" alt="Introduction to Modern AI" width="130" />&nbsp;&nbsp;
+  <img src="./assets/introduction-to-data-science.png" alt="Introduction to Data Science" width="130" />&nbsp;&nbsp;
+  <img src="./assets/apply-ai-analyze-customer-reviews.png" alt="Apply AI to Analyze Customer Reviews" width="130" />
 
 </div>
 

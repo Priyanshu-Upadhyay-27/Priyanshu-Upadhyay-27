@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a2332?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-upadhyay-cse)
 [![GitHub](https://img.shields.io/badge/GitHub-1a2332?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Priyanshu-Upadhyay-27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=netlify&logoColor=00d4ff&labelColor=1a2332)](https://priyanshu-upadhyay-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=netlify&logoColor=00d4ff&labelColor=1a2332)](https://www.iampriyanshu.me/)
 
 <br/>
 

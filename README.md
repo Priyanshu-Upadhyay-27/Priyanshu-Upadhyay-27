@@ -111,10 +111,11 @@ priyanshu = {
 <div align="center">
 
   <img src="./assets/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="160" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="160" />
-  
+  <img src="./assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="160" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/github-copilot-certified.svg" alt="GitHub Copilot Certified" width="160" />
+
   <br/><br/>
-  
+
   <img src="./assets/introduction-to-modern-ai.png" alt="Introduction to Modern AI" width="130" />&nbsp;&nbsp;
   <img src="./assets/introduction-to-data-science.png" alt="Introduction to Data Science" width="130" />&nbsp;&nbsp;
   <img src="./assets/apply-ai-analyze-customer-reviews.png" alt="Apply AI to Analyze Customer Reviews" width="130" />
